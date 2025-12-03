@@ -1,4 +1,4 @@
-# ❤️ Income Prediction Using Decision Tree
+# 💰📈 Income Prediction Using Decision Tree
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-0.25-orange?logo=scikit-learn)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
